@@ -1,0 +1,9 @@
+requests
+streamlit
+scikit-learn
+pandas
+matplotlib
+seaborn
+python-dotenv
+speechrecognition
+Pillow

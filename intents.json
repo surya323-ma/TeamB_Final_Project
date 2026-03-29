@@ -1,0 +1,44 @@
+{
+  "intents": [
+    {
+      "name": "book_flight",
+      "examples": [
+        "Book a flight to Delhi",
+        "I want to travel to Mumbai tomorrow",
+        "Get me a ticket to Bangalore"
+      ]
+    },
+    {
+      "name": "order_food",
+      "examples": [
+        "Order a pizza",
+        "I want to eat biryani",
+        "Get me some food from Zomato"
+      ]
+    },
+    {
+      "name": "check_weather",
+      "examples": [
+        "What is the weather in Pune?",
+        "Is it raining in Mumbai?",
+        "Tell me the forecast for Delhi"
+      ]
+    },
+    {
+      "name": "greet",
+      "examples": [
+        "Hello",
+        "Hi there",
+        "Good morning"
+      ]
+    },
+    {
+      "name": "goodbye",
+      "examples": [
+        "Bye",
+        "See you later",
+        "Goodbye"
+      ]
+    }
+  ]
+}
