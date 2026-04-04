@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # BotTrainer — Local LLM NLU Studio (Ollama)
 
 Intent classification and entity extraction using **Ollama** (100% local, no API key needed).
@@ -57,3 +58,5 @@ bottrainer/
     ├── nlu_pipeline.py     # Ollama: llama3 (text) + llava (image)
     └── evaluator.py        # sklearn metrics
 ```
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
